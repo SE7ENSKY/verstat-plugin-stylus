@@ -1,8 +1,9 @@
 {
   "name": "verstat-plugin-stylus",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "dependencies": {
-    "nib": "~1.0.2",
-    "stylus": "~0.42.3"
+    "canvas": "^1.1.6",
+    "nib": "^1.0.3",
+    "stylus": "^0.48.1"
   }
 }
